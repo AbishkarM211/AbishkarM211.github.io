@@ -87,7 +87,7 @@ body
 	font-weight: bold;
 	color:#f0f0f0;
 }
-#home2
+#aboutus
 {
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/background.jpg);
 	background-size: cover;
@@ -112,7 +112,7 @@ body
 	font-size:36px;
 	word-spacing: 2px;
 }
-.bodytext a span, .bodytext h3 span, #aboutus h2 span, #contact2 h3 span
+.bodytext a span, .bodytext h3 span, #aboutus2 h2 span, #contact2 h3 span
 {
 	color:#39BFA8;
 	font-family: 'Satisfy', cursive;
@@ -122,18 +122,18 @@ body
 	padding-top:180px !important;
 	font-size: 40px;
 }
-#aboutus
+#aboutus2
 {
 	padding:60px 0;
 	background:#f0f0f0;
 	color:#3e3b3b;
 }
-#aboutus h2
+#aboutus2 h2
 {
 	font-size: 50px;
 	color:#3e3b3b;
 }
-#aboutus p
+#aboutus2 p
 {
 	font-size: 22px;
 	word-spacing: 2px;
